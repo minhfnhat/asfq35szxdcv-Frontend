@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality.",
+        "title": "Revolutionize Your Next Big Idea"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Next Big Idea",
+  "subtitle": "Unleash innovation with seamless solutions that transform your concepts into reality."
+}
